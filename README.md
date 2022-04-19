@@ -20,8 +20,6 @@ __Exercise 1.__ Implement a library/program in a programming language of your
 choosing to simulate the Myhill-Nerode theorem - minimize a DFA to the
 smallest DFA with the same level of completeness.
 
-__Exercise 2.__
-
 
 
 ## Contributor's usernames:
